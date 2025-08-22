@@ -1,1 +1,1 @@
-# telecommunications
+# Учебные проекты курса "Специалист по Data Science" 
